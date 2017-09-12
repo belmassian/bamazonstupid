@@ -1,16 +1,17 @@
 {
-  "name": "week-12-homework",
+  "name": "package.json",
   "version": "1.0.0",
   "description": "mySQL and Nodejs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Brie Elmassian",
-  "license": "ISC",
-  "dependencies": {
-    "cli-table": "^0.3.1",
-    "mysql": "^2.10.2",
-    "prompt": "^1.0.0"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belmassian/bamazonstupid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/belmassian/bamazonstupid/issues"
+  },
+  "homepage": "https://github.com/belmassian/bamazonstupid#readme"
 }
